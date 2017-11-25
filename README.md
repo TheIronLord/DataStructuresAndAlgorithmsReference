@@ -3,4 +3,4 @@
 Reference for Data Structures and Algorithms
 
 ## Contributors
-thelegion92 (sajjadp92@outlook.com)
+TheIronLord (sajjadp92@outlook.com)
